@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parmod-Kundra</h1>
 <h3 align="center">A passionate Devops Engineers from India</h3>
-<img align="right" alt="coding" widht="400" src="https://media.tenor.com/s6eHxBGHvlIAAAAM/animation-cartoons.gif">
+<img align="right" alt="coding" widht="400" src="https://i.imgur.com/0Ub8zlQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samkundra-1&label=Profile%20views&color=0e75b6&style=flat" alt="samkundra-1" /> </p> 
 
